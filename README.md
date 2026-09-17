@@ -1,5 +1,5 @@
 # TMON Challenges
-https://github.com/musferahahmed74/Testing-web/blob/main/first%20blood.jpg.jpg
+https://github.com/musferahahmed74/Testing-web/blob/main/first%20blood.jpg
 Welcome! 
 
 This repository is where the TMON community can **create, share, and contribute challenges** to the **TMON platform**.
