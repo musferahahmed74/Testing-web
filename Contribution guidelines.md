@@ -1,4 +1,4 @@
-##  What to Include With Your Challenge 123567890
+##  What to Include With Your Challenge 
 
 Before submitting your challenge, make sure you've included everything the TMON team needs to review, test, and eventually add it to the platform.
 
